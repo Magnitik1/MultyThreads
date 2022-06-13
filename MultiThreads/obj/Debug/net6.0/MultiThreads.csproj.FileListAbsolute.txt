@@ -1,0 +1,15 @@
+C:\Users\aleks\source\repos\MultiThreads\MultiThreads\bin\Debug\net6.0\MultiThreads.exe
+C:\Users\aleks\source\repos\MultiThreads\MultiThreads\bin\Debug\net6.0\MultiThreads.deps.json
+C:\Users\aleks\source\repos\MultiThreads\MultiThreads\bin\Debug\net6.0\MultiThreads.runtimeconfig.json
+C:\Users\aleks\source\repos\MultiThreads\MultiThreads\bin\Debug\net6.0\MultiThreads.dll
+C:\Users\aleks\source\repos\MultiThreads\MultiThreads\bin\Debug\net6.0\ref\MultiThreads.dll
+C:\Users\aleks\source\repos\MultiThreads\MultiThreads\bin\Debug\net6.0\MultiThreads.pdb
+C:\Users\aleks\source\repos\MultiThreads\MultiThreads\obj\Debug\net6.0\MultiThreads.csproj.AssemblyReference.cache
+C:\Users\aleks\source\repos\MultiThreads\MultiThreads\obj\Debug\net6.0\MultiThreads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\source\repos\MultiThreads\MultiThreads\obj\Debug\net6.0\MultiThreads.AssemblyInfoInputs.cache
+C:\Users\aleks\source\repos\MultiThreads\MultiThreads\obj\Debug\net6.0\MultiThreads.AssemblyInfo.cs
+C:\Users\aleks\source\repos\MultiThreads\MultiThreads\obj\Debug\net6.0\MultiThreads.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\MultiThreads\MultiThreads\obj\Debug\net6.0\MultiThreads.dll
+C:\Users\aleks\source\repos\MultiThreads\MultiThreads\obj\Debug\net6.0\ref\MultiThreads.dll
+C:\Users\aleks\source\repos\MultiThreads\MultiThreads\obj\Debug\net6.0\MultiThreads.pdb
+C:\Users\aleks\source\repos\MultiThreads\MultiThreads\obj\Debug\net6.0\MultiThreads.genruntimeconfig.cache
